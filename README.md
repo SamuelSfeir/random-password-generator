@@ -13,5 +13,5 @@ Bem-vindo ao Gerador de Senhas Aleatórias! Este é um projeto simples desenvolv
 
 ## Demonstração
 
-Você pode acessar uma demonstração ao vivo do projeto [aqui](http://localhost:5173/).
+Você pode acessar uma demonstração ao vivo do projeto [aqui](https://random-password-generator-snowy.vercel.app/).
 
