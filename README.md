@@ -1,6 +1,6 @@
 # Gerador de Senhas Aleatórias
 
-Bem-vindo ao Gerador de Senhas Aleatórias! Este é um projeto simples desenvolvido com HTML, CSS e JavaScript para criar senhas seguras de forma aleatória. Esta ferramenta é útil para quem precisa gerar senhas robustas para aumentar a segurança online.
+Este é um projeto simples desenvolvido com HTML, CSS e JavaScript para criar senhas seguras de forma aleatória. Esta ferramenta é útil para quem precisa gerar senhas robustas para aumentar a segurança online.
 
 ## Funcionalidades
 
